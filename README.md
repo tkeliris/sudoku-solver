@@ -6,7 +6,7 @@ The solver propagates cell values according to basic sudoku rules. This is enoug
 
 2 "easy" and 4 "hard" problems are included in the repo.
 
-Inspiration by Peter Norvig's[Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html)
+Inspiration by Peter Norvig's [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html)
 
 Released under an MIT license
 
